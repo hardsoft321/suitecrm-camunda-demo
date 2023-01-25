@@ -1,0 +1,3 @@
+[submodule "packages/camunda"]
+	path = packages/camunda
+	url = https://github.com/hardsoft321/suitecrm-camunda.git
