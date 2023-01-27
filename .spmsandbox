@@ -24,7 +24,7 @@
 [camunda]
     path = packages/camunda
     id = "camunda"
-    version = 0.2.1
+    version = 0.2.2
 
 [camunda-example]
     path = packages/camunda/example/camunda-example
